@@ -7,6 +7,5 @@
         android:layout_height="match_parent"
         android:gravity="center"
         android:textSize="20sp"
-    android:id="@+id/txt"
-        android:text="@string/home_fragment" />
+    android:id="@+id/txt" />
 </FrameLayout>
